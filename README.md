@@ -12,3 +12,4 @@ Download the .exe and run it.
 ## _For the source code_
 
 Download the file.
+Remember, psutil is NOT a default python library, make sure you use "pip install psutil" to install the needed library
